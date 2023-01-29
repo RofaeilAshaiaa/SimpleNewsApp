@@ -1,0 +1,36 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+buildscript {
+    ext {
+        androidXCoreVersion = "1.9.0"
+        androidXAppCompatVersion = "1.6.0"
+        materialDesignVersion = "1.7.0"
+        constraintlayoutVersion = "2.1.4"
+        gsonVersion = "2.10"
+        navVersion = "2.5.3"
+        hiltVersion = '2.44.2'
+        lifecycleVersion = "2.5.1"
+        coroutinesVersion = "1.6.1"
+        retrofitVersion = "2.9.0"
+        glideVersion = "4.14.2"
+        junitVersion = "4.13.2"
+        extJunitVersion = "1.1.5"
+        mockitoVersion = "4.0.0"
+        mockitoInlineVersion = "4.6.1"
+        androidXTestExtKotlinRunnerVersion = "1.1.5"
+        androidXTestCoreVersion = "1.5.0"
+        androidXTestRunnderVersion = "1.5.2"
+        robolectricVersion = "4.6.1"
+        archTestingVersion = "2.1.0"
+        espressoVersion = "3.5.1"
+    }
+    dependencies {
+        classpath "androidx.navigation:navigation-safe-args-gradle-plugin:$navVersion"
+    }
+}
+plugins {
+    id 'com.android.application' version '7.3.1' apply false
+    id 'com.android.library' version '7.3.1' apply false
+    id 'org.jetbrains.kotlin.android' version '1.7.10' apply false
+    id "com.google.dagger.hilt.android" version "2.44" apply false
+}
+

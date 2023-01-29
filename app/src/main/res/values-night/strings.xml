@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_city_hint">Search City</string>
+    <string name="extended_fab_label">Open in Browser</string>
+    <string name="article_author_date_place_holder" formatted="true">By %1$s  |  %2$s</string>
+    <string name="search_articles">Search Articles</string>
+    <string name="something_went_wrong">Something went wrong</string>
+</resources>

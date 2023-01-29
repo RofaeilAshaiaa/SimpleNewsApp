@@ -10,7 +10,7 @@
 - Android SDK.
 - [newsapi.org](https://newsapi.org) API Key.
 
-## How to build
+## How to build and run
 
 1. First clone the repo on any location of your choice on your laptop, you can execute the following command to clone it ` git clone https://github.com/RofaeilAshaiaa/SimpleNewsApp` in the _terminal/command_ line on Linux/Mac or in your _bash shell/git bash_ on Windows.
 

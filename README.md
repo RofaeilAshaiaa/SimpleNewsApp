@@ -39,3 +39,4 @@
 
 # App Demo on Emulator
 
+- You can view a demo video for the app running under the `screenshot/` folder in the root directory of the project.

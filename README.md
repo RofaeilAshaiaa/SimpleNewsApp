@@ -1,7 +1,7 @@
 ![alt text](./screenshot/screenshot-project-overview.png)
 
 # Project Overview [To-Do]
-- A two screens news app, built with the free [newsapi.org API](https://newsapi.org)
+- A simple news app, built with the free [newsapi.org API](https://newsapi.org)
 
 ## Requirements [To-Do]
 

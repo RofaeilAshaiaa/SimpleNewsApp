@@ -1,9 +1,9 @@
 ![alt text](./screenshot/screenshot-project-overview.png)
 
-# Project Overview [To-Do]
+# Project Overview
 - A simple news app, built with the free [newsapi.org API](https://newsapi.org)
 
-## Requirements [To-Do]
+## Requirements
 
 - Android Studio.
 - Java JDK.
@@ -34,8 +34,9 @@
 - Complete the unit tests for the view model.
 - Add UI tests for both article list and article details screen.
 
-## Importnant Note
+## Important Note
 - Due to the time limit, the unit test are not full completed and the UI tests are missing.
+- I could have implemented the UI in jetpack compose since I have some experience using it in some apps. For a recent project I have developed using Compose check [the Weather App](https://github.com/RofaeilAshaiaa/SimpleWeatherApp).
 
 # App Demo on Emulator
 
